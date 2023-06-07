@@ -1,3 +1,7 @@
+## 2.2.6
+
+* Fix activity type setting propagation.
+
 ## 2.2.5
 
 * Fixes a bug where iOS location manager background geolocation settings are overridden by calls to the `getCurrentPosition` method.

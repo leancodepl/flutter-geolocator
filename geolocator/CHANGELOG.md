@@ -1,3 +1,8 @@
+## 9.0.3
+
+- Fix activity type setting propagation on apple devices.
+
+
 ## 9.0.2
 
 - Updated dependency on geolocator_android to version 4.1.3
